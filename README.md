@@ -1,3 +1,4 @@
+<img width="2333" height="1241" alt="3d_render" src="https://github.com/user-attachments/assets/48eca57b-2f54-43d4-a345-ff5de8d10374" />
 # Custom Aluminum Electronic Enclosure
 
 ## 📌 Project Overview
