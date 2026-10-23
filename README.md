@@ -32,7 +32,3 @@ This repository contains the complete design, engineering drawings, and specific
 ## 🚀 Getting Started
 1. Review the `drawings/flat_pattern.dxf` file for laser cutting.
 2. Refer to `docs/manufacturing_spec.md` for the step-by-step fabrication process.
-
-## 📜 License
-This project is licensed under the CERN Open Hardware Licence v2 - Strongly Reciprocal (CERN-OHL-S-2.0). Feel free to modify and manufacture for personal or commercial use.
-# Custom-Electronics-Enclosure
