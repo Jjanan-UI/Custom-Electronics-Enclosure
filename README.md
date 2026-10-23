@@ -1,5 +1,6 @@
-<img width="2333" height="1241" alt="3d_render" src="https://github.com/user-attachments/assets/48eca57b-2f54-43d4-a345-ff5de8d10374" />
 # Custom Aluminum Electronic Enclosure
+
+<img width="2333" height="1241" alt="3d_render" src="https://github.com/user-attachments/assets/48eca57b-2f54-43d4-a345-ff5de8d10374" />
 
 ## 📌 Project Overview
 This repository contains the complete design, engineering drawings, and specifications for a custom sheet-metal electronic enclosure. Designed for flat-pattern manufacturing, this enclosure provides a lightweight, durable, and EMI-shielding housing for custom PCBs and electronic assemblies.
@@ -19,6 +20,9 @@ This repository contains the complete design, engineering drawings, and specific
 *   **Ventilation & Cable Management:** Large rounded rectangular cutouts on the side walls (66.00 mm center-to-center) for airflow and wire routing.
 *   **PCB Mounting Grid:** 8 pre-drilled holes in the base plate (42.50 mm x 70.00 mm pitch) for internal component mounting.
 *   **Weld-Free Assembly:** Designed with interlocking tabs and relief cuts to maintain structural rigidity without welding.
+
+<img width="2333" height="1241" alt="Flat" src="https://github.com/user-attachments/assets/cde61307-51da-41ef-a9fb-205a60612a5e" />
+
 
 ## 📂 Repository Structure
 *   `/cad` - 3D models (SolidWorks files).
