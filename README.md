@@ -1,7 +1,5 @@
 # Custom Aluminum Electronic Enclosure
 
-![3D Render](images/3d_render.jpg)
-
 ## 📌 Project Overview
 This repository contains the complete design, engineering drawings, and specifications for a custom sheet-metal electronic enclosure. Designed for flat-pattern manufacturing, this enclosure provides a lightweight, durable, and EMI-shielding housing for custom PCBs and electronic assemblies.
 
