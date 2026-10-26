@@ -9,7 +9,7 @@ This repository contains the complete design, engineering drawings, and specific
 ## 📊 Key Specifications
 | Parameter | Specification |
 | :--- | :--- |
-| **Part Type** | 5-Sided Sheet Metal Enclosure |
+| **Part Type** | Sheet Metal Enclosure |
 | **Material** | 2.0 mm Aluminum (5052 or 6061) |
 | **Overall Size** | Approx. 135 mm × 115 mm × 35 mm |
 | **Manufacturing Process** | Laser Cutting → Bending → PEM Insertion → Finishing |
