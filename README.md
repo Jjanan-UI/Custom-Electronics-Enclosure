@@ -1,6 +1,7 @@
 # Custom Aluminum Electronic Enclosure
 
-<img width="2333" height="1241" alt="3d_render" src="https://github.com/user-attachments/assets/48eca57b-2f54-43d4-a345-ff5de8d10374" />
+<img width="1215" height="916" alt="3d_render" src="https://github.com/user-attachments/assets/7bf756ae-3ec5-4434-8bf6-35c4cb046ca6" />
+
 
 ## 📌 Project Overview
 This repository contains the complete design, engineering drawings, and specifications for a custom sheet-metal electronic enclosure. Designed for flat-pattern manufacturing, this enclosure provides a lightweight, durable, and EMI-shielding housing for custom PCBs and electronic assemblies.
@@ -21,14 +22,11 @@ This repository contains the complete design, engineering drawings, and specific
 *   **PCB Mounting Grid:** 8 pre-drilled holes in the base plate (42.50 mm x 70.00 mm pitch) for internal component mounting.
 *   **Weld-Free Assembly:** Designed with interlocking tabs and relief cuts to maintain structural rigidity without welding.
 
-<img width="2333" height="1241" alt="Flat" src="https://github.com/user-attachments/assets/cde61307-51da-41ef-a9fb-205a60612a5e" />
+<img width="1133" height="1069" alt="Flat" src="https://github.com/user-attachments/assets/3136246a-2aa2-4ba1-9fbc-641780d40d44" />
+
 
 
 ## 📂 Repository Structure
 *   `/cad` - 3D models (SolidWorks files).
 *   `/drawings` - 2D flat patterns, DXF files for laser cutting, and PDF engineering drawings.
 *   `/images` - Renders and reference photos.
-
-## 🚀 Getting Started
-1. Review the `drawings/flat_pattern.dxf` file for laser cutting.
-2. Refer to `docs/manufacturing_spec.md` for the step-by-step fabrication process.
