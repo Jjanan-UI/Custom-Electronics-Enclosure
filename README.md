@@ -29,7 +29,7 @@ This repository contains the complete engineering drawing and flat-pattern desig
 
 ## 📂 Repository Structure
 *   `/cad` - 3D models (SolidWorks files).
-*   `/drawings` - 2D flat patterns, DXF files for laser cutting, and PDF engineering drawings.
+*   `/drawings` - Specification, flat_pattern.DXF files for laser cutting, and PDF engineering drawings.
 *   `/images` - Renders and reference photos.
 
 
